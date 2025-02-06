@@ -1,1 +1,1 @@
-This project aims to predict the likelihood of heart disease using classification models. It uses various machine learning techniques to classify whether a person is at risk of heart disease based on a set of health-related features.
+This small repo aims to predict the likelihood of heart disease using classification models. It uses various machine learning techniques to classify whether a person is at risk of heart disease based on a set of health-related features.
